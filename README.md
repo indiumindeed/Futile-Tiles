@@ -1,5 +1,5 @@
 # Futile-Tiles
-Android/IOS game Futile Tiles is now open source. The game is based on Libgdx java game development framework.
+This is the open source version of Android / IOS game Futile Tiles. The game is based on Libgdx java game development framework.
 
 The original game can be downloaded for Android at
 
